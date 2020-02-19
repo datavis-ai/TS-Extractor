@@ -1,0 +1,10 @@
+{
+  "database_network":[
+    {
+      "name":"Citation_Visualization.db",
+      "directed": true,
+      "discard_fields":["id", "reference", "abstract"],
+      "full_compatibility_attr":["name"]
+    }
+  ]
+}
