@@ -1,2 +1,2 @@
 # TS-Extractor
-An interactive graph system to enable users to extract, analyze and expand relevant subgraphs.
+An interactive graph visualization system to enable users to extract, analyze and expand relevant subgraphs.
