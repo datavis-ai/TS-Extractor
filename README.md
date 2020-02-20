@@ -1,7 +1,7 @@
 # TS-Extractor
 An interactive graph visualization system to enable users to extract, analyze and expand relevant subgraphs.
 
-Online demo:http://jalamao.top
+Online demo: http://jalamao.top
 
 Our input is a large graph that contains thousands or more nodes and has node attributes (i.e., semantic information).
 
