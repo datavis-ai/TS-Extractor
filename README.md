@@ -27,4 +27,4 @@ It is recommended to install this system in the ubuntu system.
 
 `Sudo npm run dev`
 
-4. Access at http://localhost:8080.
+4. Access the system interface at http://localhost:8080.
