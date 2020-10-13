@@ -1,5 +1,7 @@
-# TS-Extractor
+# TS-Extractor: Large Graph Exploration Via Subgraph Extraction Based on Topological and Semantic
+Information(https://link.springer.com/article/10.1007/s12650-020-00699-y)
 An interactive graph visualization system to enable users to extract, analyze and expand relevant subgraphs.
+Our paper
 
 Demo video: http://jalamao.top/file/TS-Extractor.mp4
 
