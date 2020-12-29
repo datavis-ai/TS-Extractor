@@ -1,4 +1,4 @@
-# TS-Extractor: [Large Graph Exploration Via Subgraph Extraction Based on Topological and Semantic Information](https://link.springer.com/article/10.1007/s12650-020-00699-y)
+## TS-Extractor: [Large Graph Exploration Via Subgraph Extraction Based on Topological and Semantic Information](https://link.springer.com/article/10.1007/s12650-020-00699-y)
 An interactive graph visualization system to enable users to extract, analyze and expand relevant subgraphs.
 
 Demo video: http://jalamao.top/file/TS-Extractor.mp4
@@ -28,3 +28,13 @@ It is recommended to install this system in the ubuntu system.
 `Sudo npm run dev`
 
 4. Access the system interface at http://localhost:8080.
+## Citation
+Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follows:
+
+@Article{Fu2020TSExtractorLG,
+  Title                    = {TS-Extractor: large graph exploration via subgraph extraction based on topological and semantic information},
+  Author                   = {Kun Fu and Tingyun Mao and Yang Wang and Daoyu Lin and Y. Zhang and Junjian Zhan and Xi-an Sun and F. Li},
+  Journal                  = {Journal of Visualization},
+  Year                     = {2020},
+  Pages                    = {1 - 18} 
+}
