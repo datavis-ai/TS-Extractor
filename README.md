@@ -31,10 +31,10 @@ It is recommended to install this system in the ubuntu system.
 ## Citation
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follows:
 
-@Article{Fu2020TSExtractorLG,
-  Title                    = {TS-Extractor: large graph exploration via subgraph extraction based on topological and semantic information},
-  Author                   = {Kun Fu and Tingyun Mao and Yang Wang and Daoyu Lin and Y. Zhang and Junjian Zhan and Xi-an Sun and F. Li},
-  Journal                  = {Journal of Visualization},
-  Year                     = {2020},
-  Pages                    = {1 - 18} 
-}
+    @Article{Fu2020TSExtractorLG,
+      Title                    = {TS-Extractor: large graph exploration via subgraph extraction based on topological and semantic information},
+      Author                   = {Kun Fu and Tingyun Mao and Yang Wang and Daoyu Lin and Y. Zhang and Junjian Zhan and Xi-an Sun and F. Li},
+      Journal                  = {Journal of Visualization},
+      Year                     = {2020},
+      Pages                    = {1 - 18} 
+    }
